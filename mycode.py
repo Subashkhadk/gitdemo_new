@@ -1,3 +1,3 @@
 This is my first project
 This is my second line
-Print(gNaptifs lineh)
+Print(gSubash new lineh)
